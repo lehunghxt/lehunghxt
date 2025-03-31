@@ -1,4 +1,4 @@
-### <div align="center">I'm Hung, a full-stack freelance developer 👨‍💻  🚀</div>  
+### <div align="center">I'm Hung, a full-stack .NET developer 👨‍💻  🚀</div>  
   
 
 <br/>  
